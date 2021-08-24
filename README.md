@@ -10,4 +10,4 @@ Upcoming Updates : The next update will provide options for user to select contr
 
 
 
-## Author : Jatin Bhosale (VU3FPK)
+## Author : Jatin Bhosale
